@@ -1,2 +1,2 @@
 # HexagonTumay
-Hexagon Game Prototype
+A prototype game for "Hexfall"
